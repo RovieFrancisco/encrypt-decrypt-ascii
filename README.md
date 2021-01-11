@@ -7,7 +7,7 @@ This simple app is able to Encrypt Strings or Characters into ASCII numbers and 
 [![Instagram](https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franz0515)
 
 ## :heavy_check_mark: Screenshots
-Below are example screenshots on how encryption and decryption works.
+Below are examples screenshots on how encryption and decryption works.
 
 ## Start Up
 ![Screenshot_20210111-120200](https://user-images.githubusercontent.com/40444648/104146238-00356100-5405-11eb-8362-aad87385d064.png)
