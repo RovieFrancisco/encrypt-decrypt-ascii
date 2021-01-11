@@ -8,3 +8,15 @@ This simple app is able to Encrypt Strings or Characters into ASCII numbers and 
 
 ## :heavy_check_mark: Screenshots
 Below are example screenshots on how encryption and decryption works.
+
+## Start Up
+![Screenshot_20210111-120200](https://user-images.githubusercontent.com/40444648/104146238-00356100-5405-11eb-8362-aad87385d064.png)
+
+## Encrypted
+![Screenshot_20210111-120214](https://user-images.githubusercontent.com/40444648/104146259-13483100-5405-11eb-8bd3-fa321af9e3cc.png)
+
+## To Decrypt
+![Screenshot_20210111-120227](https://user-images.githubusercontent.com/40444648/104146277-23f8a700-5405-11eb-81b1-8f4dd5038075.png)
+
+## Decrypted
+![Screenshot_20210111-120233](https://user-images.githubusercontent.com/40444648/104146291-307cff80-5405-11eb-945d-8c826df1507e.png)
